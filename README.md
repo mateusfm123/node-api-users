@@ -1,10 +1,13 @@
-# Node API Users 👥
-API simples em Node.js + Express.
+# Node API Users 👥  
+API simples feita com **Node.js + Express** para listar usuários.  
+Perfeita para demonstrar conhecimentos de backend.
 
-## Como rodar
-```
+## 🚀 Tecnologias
+- Node.js
+- Express
+- ES Modules
+
+## ▶️ Como rodar
+```bash
 npm install
 npm start
-```
-
-Endpoint: **GET /users**
